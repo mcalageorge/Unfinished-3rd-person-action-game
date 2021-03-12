@@ -2,6 +2,9 @@
 
 This is a prototype for a future action game
 
+[First reference frame]
 ![First reference frame](1.png)
+[Moving]
 ![Moving](2.png)
+[Attack]
 ![Attack](3.png)
